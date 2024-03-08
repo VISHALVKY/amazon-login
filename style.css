@@ -1,0 +1,52 @@
+form {
+    margin: 0px 10px;
+}
+img{
+    height: 140px;
+    width: 200px;
+    margin-left: 43%;
+    
+}
+
+h2 {
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.container {
+    max-width: 360px;
+}
+
+.divider {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.divider hr {
+    margin: 7px 0px;
+    width: 35%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+
+#footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    margin-top: 10px;
+
+}
+
+a:link {
+    font-size: 12px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: #0066c0
+}
